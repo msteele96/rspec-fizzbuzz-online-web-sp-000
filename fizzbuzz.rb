@@ -11,5 +11,5 @@ def fizzbuzz(int)
     end
     ) = true
     "FizzBuzz"
-
+  end
 end
